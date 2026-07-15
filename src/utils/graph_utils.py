@@ -2,7 +2,7 @@ import networkx as nx
 import numpy as np
 import numpy as np
 from sklearn import neighbors
-from src.ollivier_ricci import OllivierRicci
+from orcml.src.ollivier_ricci import OllivierRicci
 import multiprocessing as mp
 import tqdm
 

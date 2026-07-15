@@ -1,7 +1,7 @@
 import networkx as nx
 import numpy as np
 import time
-from src.utils.graph_utils import *
+from orcml.src.utils.graph_utils import *
 
 shortcut_str = "Shortcut Edge Detected: edge {num}\n d_G'(x,y)/effective_eps: {emp_ratio}\n Threshold/effective_eps: {theo_ratio}\n\n"
 

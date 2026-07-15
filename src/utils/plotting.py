@@ -6,7 +6,8 @@ import plotly.graph_objs as go
 import gudhi
 import persim
 
-from src.utils.eval_utils import *
+from orcml.src.utils.eval_utils import *
+#from orcml.src.utils.plotting import *
 
 # plotting functions
 
